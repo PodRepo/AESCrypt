@@ -1,3 +1,7 @@
+
+AESCrypt/Pods
+.DS_Store
+AESCrypt/Podfile.lock
 # Xcode
 #
 build/
